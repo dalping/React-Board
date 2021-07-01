@@ -19,14 +19,8 @@ app.get('/api/board', (req,res) => {
         'id': 2,
         'name' : "아기감자",
         'title': "로미니",
-        'content': "귀여웡."
+        'content': "귀여워!."
         },
-        {
-            'id': 3,
-            'name' : "하기싫다",
-            'title': "왜하는겨",
-            'content': "짜증나"
-        } 
      ]);
 });
 
